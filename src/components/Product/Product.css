@@ -10,12 +10,3 @@
     color: blue;
     font-weight: 400;
 }
-.main-button{
-    background: gold;
-    border-radius: 8%;
-    border: none;
-    width: 110px;
-    height: 30px;
-    cursor: pointer;
-    font-size: .9rem;
-}

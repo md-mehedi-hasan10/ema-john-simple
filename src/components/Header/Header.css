@@ -16,6 +16,8 @@ nav a{
     margin-right: 20px;
     padding: 5px;
 }
+
 nav a:hover{
     background-color: gray;
+    color: white;
 }
